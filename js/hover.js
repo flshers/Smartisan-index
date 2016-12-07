@@ -42,11 +42,11 @@ $(document).ready(function() {
 		});
 	}, function() {
 		/* Stuff to do when the mouse leaves the element */
-		timer = setInterval(tabs, 3000);
+		timer = setInterval(tabs, 2500);
 	});
 
 	
-		timer = setInterval(tabs, 3000);
+		timer = setInterval(tabs, 2500);
 	// 自动切换
 	var num = 0;
 	function tabs() {
